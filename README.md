@@ -24,7 +24,8 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,22,35&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
+<!-- Animated Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=-1:211a2c,50:342946,100:8245ec&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
 
 </div>
 
