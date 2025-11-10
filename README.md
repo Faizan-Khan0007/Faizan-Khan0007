@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=40&duration=3000&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Faizan+Khan;Flutter+Developer;Backend+Engineer;Competitive+Programmer" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=40&duration=3000&pause=1000&color=B392F0&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Faizan+Khan" alt="Typing SVG" />
 </h1>
 
 <div align="center" style="margin: 30px 0;">
@@ -9,15 +9,19 @@
 </div>
 
 <div align="center" style="margin: 40px 0;">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/faizanxp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px 10px; border-radius: 12px;" />
   </a>
-  <a href="YOUR_TWITTER_URL" target="_blank">
+  <a href="https://x.com/fkwarrior21?t=EmBqkEvvsQQHoejunPtpxQ&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 5px 10px; border-radius: 12px;" />
   </a>
-  <a href="YOUR_LEETCODE_URL" target="_blank">
+  <a href="https://leetcode.com/u/Fkwarrior/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" style="margin: 5px 10px; border-radius: 12px;" />
   </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-5B7FE5?style=for-the-badge&logo=file-text&logoColor=white&labelColor=4A6BD4&color=5B7FE5" alt="Resume" style="margin: 5px 10px; border-radius: 12px;" />
+  </a>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,22,35&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
@@ -26,29 +30,28 @@
 
 <div align="center">
 
-## **About Me**
+## 💫 **About Me**
 
 </div>
 
 <div style="background: linear-gradient(135deg, rgba(0,191,255,0.1), rgba(138,43,226,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(0,191,255,0.3);">
 
-🎓 Computer Science Student & Passionate Developer
+🎓 Computer Science Student at **IIIT Bhagalpur**
 
 🔭 Currently building **Thyverse** — A comprehensive thyroid care application
 
 💼 **Flutter Developer Intern** at **Thyright Innovations** — Developing cross-platform mobile solutions for healthcare
 
-💻 **Backend Enthusiast** — Building scalable APIs with **FastAPI (Python)** and **AWS**, currently developing a video streaming platform
+💻 **Backend & Cloud Enthusiast** — Proficient in Node.js, Express.js, and actively learning AWS for robust cloud infrastructure.
 
-🤖 **SIH Participant** — Worked on "Smart Tourist Safety Monitoring & Incident Response System" using AI & Geo-Fencing
+🤖 **Hackathon Participant** — Worked on "Smart Tourist Safety Monitoring & Incident Response System" using AI & Geo-Fencing
 
-🏆 **Competitive Programmer** — actively solving problems in **C++** focusing on Data Structures & Algorithms
+🏆 **Competitive Programmer** — 2-Star Coder on CodeChef; solved 300+ algorithmic challenges across platforms.
 
 💬 **Let's talk about:**
 - Flutter App Architecture & State Management
 - Backend Development (FastAPI, Node.js, AWS)
 - Competitive Programming (C++, DSA)
-- Digital Signal Processing (DSP)
 
 ⚡ **Fun fact:** I fuel my coding sessions with a strict fitness regime — healthy body, healthy code! 💪
 
@@ -62,23 +65,25 @@
 
 <div align="center">
 
-### Core
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend & Cloud
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Other Tools
+### Mobile & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -89,17 +94,19 @@
 </div>
 
 ### 🏥 **Thyverse App** *(Internship Project)*
-A specialized healthcare application for thyroid patient care and monitoring.
-- **Tech Stack:** Flutter, Dart, Backend Services
-- **Role:** Flutter Developer Intern
+Building core backend features for a healthcare application.
+- **Focus:** User profile management, data endpoints, and AWS integration for scalable infrastructure.
+- **Role:** Software Developer Intern
 
-### 🛡️ **Smart Tourist Safety System** *(SIH Project)*
-AI and Geo-Fencing based system for monitoring tourist safety and rapid incident response.
-- **Tech Stack:** AI/ML Integration, Blockchain, Geo-Fencing
+### 🛒 **Amazin App** *(E-commerce Backend)*
+Architected a secure Node.js backend designed to handle 100+ concurrent users.
+- **Tech Stack:** Node.js, Express.js, MongoDB, Flutter
+- **Key Features:** Secured 25+ API endpoints using **JWT**; optimized MongoDB Schema for query performance.
 
-### 📺 **Video Streaming Platform** *(Learning Project)*
-Building a scalable backend for video streaming to master AWS and FastAPI.
-- **Tech Stack:** Python, FastAPI, AWS, Docker, Redis
+### ✅ **Smart Todo Manager**
+Engineered a cross-platform productivity app using **Clean Architecture**.
+- **Tech Stack:** Flutter, Supabase
+- **Key Features:** Real-time database sync and secure authentication for team collaboration.
 
 <div align="center">
   <a href="https://github.com/Faizan-Khan0007?tab=repositories">
@@ -113,10 +120,10 @@ Building a scalable backend for video streaming to master AWS and FastAPI.
 
 </div>
 
-### Flutter Developer Intern @ Thyright Innovations *(Aug 2025 – Present)*
-- Developing the **Thyverse** mobile application using Flutter
-- Implementing responsive UI/UX and integrating backend services
-- Collaborating with cross-functional teams to deliver healthcare solutions
+### Software Developer Intern @ Thyright Innovations *(Aug 2024 – Present)*
+- Implemented core backend features for **Thyverse**, focusing on user management and data integrity.
+- Assisted in architectural planning for integrating Flutter front-end with **AWS**.
+- Developed robust data validation modules to enhance overall application security
 
 <div align="center">
 
@@ -139,4 +146,7 @@ Building a scalable backend for video streaming to master AWS and FastAPI.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-Khan0007&theme=react-dark&bg_color=0D1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:211a2c,50:342946,100:8245ec&height=120&section=footer&text=Thank%20You%20For%20Visiting&fontSize=24&fontColor=ffffff&animation=fadeIn" style="opacity: 0.9;"/>
 </div>
