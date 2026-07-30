@@ -18,7 +18,7 @@
   <a href="https://leetcode.com/u/Fkwarrior/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" style="margin: 5px 10px; border-radius: 12px;" />
   </a>
-  <a href="https://prodloo.app" target="_blank">
+  <a href="https://play.google.com/store/apps/details?id=com.prodloo.app" target="_blank">
     <img src="https://img.shields.io/badge/Prodloo-4A6BD4?style=for-the-badge&logo=googleplay&logoColor=white" alt="Prodloo App" style="margin: 5px 10px; border-radius: 12px;" />
   </a>
   <a href="#" target="_blank">
