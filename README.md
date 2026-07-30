@@ -21,7 +21,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.prodloo.app" target="_blank">
     <img src="https://img.shields.io/badge/Prodloo-4A6BD4?style=for-the-badge&logo=googleplay&logoColor=white" alt="Prodloo App" style="margin: 5px 10px; border-radius: 12px;" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://drive.google.com/file/d/1IA8N__ysI4MXRFfdtfRQdVrVvU_FWo_v/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-5B7FE5?style=for-the-badge&logo=file-text&logoColor=white&labelColor=4A6BD4&color=5B7FE5" alt="Resume" style="margin: 5px 10px; border-radius: 12px;" />
   </a>
 </div>
