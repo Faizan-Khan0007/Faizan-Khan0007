@@ -1,178 +1,135 @@
 <div align="center">
 
-<h1>
- <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=40&duration=3000&pause=1000&color=B392F0&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Faizan+Khan" alt="Typing SVG" />
-</h1>
+# Faizan Khan
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://komarev.com/ghpvc/?username=Faizan-Khan0007&label=Profile%20views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
-</div>
+**Backend & Full-Stack Engineer**
 
-<div align="center" style="margin: 40px 0;">
-  <a href="https://www.linkedin.com/in/faizanxp/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px 10px; border-radius: 12px;" />
-  </a>
-  <a href="https://x.com/fkwarrior21" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 5px 10px; border-radius: 12px;" />
-  </a>
-  <a href="https://leetcode.com/u/Fkwarrior/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" style="margin: 5px 10px; border-radius: 12px;" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.prodloo.app" target="_blank">
-    <img src="https://img.shields.io/badge/Prodloo-4A6BD4?style=for-the-badge&logo=googleplay&logoColor=white" alt="Prodloo App" style="margin: 5px 10px; border-radius: 12px;" />
-  </a>
-  <a href="https://drive.google.com/file/d/1IA8N__ysI4MXRFfdtfRQdVrVvU_FWo_v/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-5B7FE5?style=for-the-badge&logo=file-text&logoColor=white&labelColor=4A6BD4&color=5B7FE5" alt="Resume" style="margin: 5px 10px; border-radius: 12px;" />
-  </a>
-</div>
+Building production systems end-to-end — FastAPI services on the backend, Flutter clients on the front.<br>
+Computer Science @ IIIT Bhagalpur · Class of 2027 · Open to SWE internships
 
-<!-- Animated Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=-1:211a2c,50:342946,100:8245ec&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
+<a href="https://www.linkedin.com/in/faizanxp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Fkwarrior/"><img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://x.com/fkwarrior21"><img src="https://img.shields.io/badge/X-1A1A1A?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.prodloo.app"><img src="https://img.shields.io/badge/Prodloo%20on%20Play%20Store-1A1A1A?style=flat-square&logo=googleplay&logoColor=3DDC84" alt="Prodloo"/></a>
+<a href="https://drive.google.com/file/d/1IA8N__ysI4MXRFfdtfRQdVrVvU_FWo_v/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-1A1A1A?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
 </div>
 
-<div align="center">
+---
 
-## 💫 About Me
+## About
 
-</div>
+I care about the parts of software that only show up under load: race conditions, cache invalidation, memory that never gets released, and LLM output that has to be parseable every single time.
 
-<div style="background: linear-gradient(135deg, rgba(0,191,255,0.1), rgba(138,43,226,0.1)); padding: 20px; border-radius: 15px; border: 1px solid rgba(0,191,255,0.3);">
+Most of what I've built is live and used by real people — a Pomodoro app on the Play Store with a background service that survives process death, and an AI resume analyzer that answers cached requests in under 100 ms.
 
-🎓 Final-year Computer Science student at **IIIT Bhagalpur** (Class of 2027)
+- **Currently** — deepening backend systems work (Postgres internals, caching strategies, API design)
+- **Recently** — shipped ResumeIQ end-to-end: FastAPI + PostgreSQL + Redis + Gemini, deployed on Render and Vercel
+- **Ask me about** — FastAPI service design, Flutter/BLoC architecture, structured LLM output with Pydantic, C++ DSA
 
-🛠️ **Full-Stack & Backend Engineer** — I design and ship production systems end-to-end: FastAPI/PostgreSQL/Redis services on the backend, Flutter clients on the front
-
-🚀 Shipped **Prodloo** (v2.0) to the Google Play Store — a production Flutter app with a resilient background timer engine, offline caching, and Firestore transaction handling
-
-🤖 Built **ResumeIQ** — a full-stack AI resume analyzer (FastAPI + PostgreSQL + Redis + Gemini API) with structured, hallucination-free LLM output and sub-100ms cached responses
-
-💼 Former **Software Developer Intern** at **Thyright Innovations**, where I led a MVVM → BLoC Clean Architecture migration on a production healthcare app
-
-🏆 **Competitive Programmer** — 2-Star Coder on CodeChef, 500+ DSA problems solved across platforms (300+ on LeetCode)
-
-🧩 **Hackathons** — Top 5 finish at Hacktopia, shortlisted for Smart India Hackathon 2025 (blockchain-based Tourist Safety System), Top 16 at SIH '24
-
-💬 **Let's talk about:**
-- Backend architecture & API design (FastAPI, Node.js, PostgreSQL, Redis)
-- Flutter app architecture & state management (BLoC, Provider)
-- AI-assisted development & structured LLM output (Gemini API, Pydantic)
-- Competitive Programming (C++, DSA)
-
-</div>
-
-<div align="center">
+---
 
 ## Tech Stack
 
-</div>
+**Languages**<br>
+![C++](https://img.shields.io/badge/C++-1A1A1A?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-1A1A1A?style=flat-square&logo=dart&logoColor=0175C2)
+![SQL](https://img.shields.io/badge/SQL-1A1A1A?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-<div align="center">
+**Backend**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-1A1A1A?style=flat-square&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1A1A1A?style=flat-square&logo=express&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1A1A1A?style=flat-square&logo=sqlalchemy&logoColor=D71F00)
+![Pydantic](https://img.shields.io/badge/Pydantic-1A1A1A?style=flat-square&logo=pydantic&logoColor=E92063)
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Data & Infra**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-1A1A1A?style=flat-square&logo=redis&logoColor=DC382D)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A?style=flat-square&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-1A1A1A?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Docker](https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=2496ED)
+![Render](https://img.shields.io/badge/Render-1A1A1A?style=flat-square&logo=render&logoColor=46E3B7)
+![Vercel](https://img.shields.io/badge/Vercel-1A1A1A?style=flat-square&logo=vercel&logoColor=white)
 
-### Backend & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Client & Tooling**<br>
+![Flutter](https://img.shields.io/badge/Flutter-1A1A1A?style=flat-square&logo=flutter&logoColor=02569B)
+![Git](https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-1A1A1A?style=flat-square&logo=postman&logoColor=FF6C37)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-1A1A1A?style=flat-square&logo=googlegemini&logoColor=8E75B2)
 
-### AI-Assisted Development
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+---
 
-### Mobile & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+## Selected Work
 
-</div>
+### ResumeIQ — AI Resume Analyzer
+`Python` `FastAPI` `PostgreSQL` `Redis` `Gemini API`
 
-<div align="center">
+Full-stack resume evaluation service, live on Render + Vercel.
 
-## Featured Projects
+- Constrained Gemini output with Pydantic-enforced JSON schemas, making parsing deterministic instead of best-effort
+- Added an MD5-keyed Redis cache in front of the LLM call, taking repeat-request latency from ~4 s to under 100 ms
+- Modelled evaluation history in PostgreSQL via SQLAlchemy so users can track score changes across resume versions
 
-</div>
+<a href="https://github.com/Faizan-Khan0007"><img src="https://img.shields.io/badge/Source-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-1A1A1A?style=flat-square&logo=vercel&logoColor=white"/></a>
 
-### 📌 Prodloo — Productivity Mobile App *(Dec 2025 – Present)*
-Production-grade Flutter app (v2.0) live on the **Google Play Store**.
-- **Tech Stack:** Flutter, Firebase, Provider (MVVM)
-- Engineered a resilient background Pomodoro timer engine using `flutter_background_service`, with Firestore transactions and offline caching for data integrity
-- Cut redundant Firebase writes by up to 80% with 500ms UI event debouncers, eliminating race conditions
-- Resolved memory leaks from orphaned StreamSubscriptions/Timers, preventing OOM crashes during 120+ minute sessions
+### Prodloo — Productivity App (v2.0, Google Play)
+`Flutter` `Firebase` `Provider`
 
-### 🤖 ResumeIQ — AI Resume Analyzer *(Jun 2026)*
-Full-stack AI resume analyzer deployed live across **Vercel** and **Render**.
-- **Tech Stack:** Python, FastAPI, PostgreSQL, Redis, Gemini AI
-- Used Pydantic-enforced structured JSON schemas to constrain Gemini output — 100% deterministic parsing, zero hallucinations
-- Built an MD5-hashed Redis semantic caching layer, cutting API latency from ~4000ms to under 100ms
-- Designed a relational PostgreSQL schema via SQLAlchemy ORM to persist user evaluation history and metrics
+Pomodoro and habit-tracking app shipped to production users.
+
+- Built a background timer engine on `flutter_background_service` with Firestore transactions and offline caching, so sessions survive app kills and network loss
+- Debounced UI events at 500 ms, cutting redundant Firestore writes by up to 80% and removing a class of race conditions
+- Tracked down orphaned `StreamSubscription`s and `Timer`s causing OOM crashes on 120+ minute sessions
+
+<a href="https://play.google.com/store/apps/details?id=com.prodloo.app"><img src="https://img.shields.io/badge/Google%20Play-1A1A1A?style=flat-square&logo=googleplay&logoColor=3DDC84"/></a>
 
 <details>
-<summary><b>Other Projects</b></summary>
+<summary><b>More projects</b></summary>
 
-### 🛒 Amazin App *(E-commerce Backend)*
-Secure Node.js backend built to handle 100+ concurrent users.
-- **Tech Stack:** Node.js, Express.js, MongoDB, Flutter
-- Secured 25+ API endpoints with JWT; optimized MongoDB schema for query performance
+<br>
 
-### ✅ Smart Todo Manager
-Cross-platform productivity app using Clean Architecture.
-- **Tech Stack:** Flutter, Supabase
-- Real-time database sync and secure authentication for team collaboration
+**Amazin — E-commerce Backend** · `Node.js` `Express` `MongoDB` `Flutter`<br>
+JWT-secured REST API across 25+ endpoints, with MongoDB schema and index tuning for concurrent traffic.
+
+**Smart Todo Manager** · `Flutter` `Supabase`<br>
+Cross-platform task app built on Clean Architecture with real-time sync and row-level-secure auth.
+
+**Tourist Safety System** · `Blockchain` `Flutter`<br>
+Smart India Hackathon 2025 shortlist — tamper-evident incident logging for tourist safety reporting.
 
 </details>
 
-<div align="center">
-  <a href="https://github.com/Faizan-Khan0007?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
-  </a>
-</div>
-
-<div align="center">
+---
 
 ## Experience
 
-</div>
+**Software Developer Intern** · Thyright Innovations · *Aug 2025 – Nov 2025*
 
-### Software Developer Intern @ Thyright Innovations *(Aug 2025 – Nov 2025)*
-- Led migration from MVVM to a BLoC-driven Clean Architecture for a production healthcare application, decoupling business logic from UI and enabling 3 engineers to develop concurrently with minimal merge conflicts
-- Engineered a normalized database architecture with 14+ tables and UUID primary keys to ensure strict data integrity across patient and clinical operations
-- Collaborated in an Agile environment to design, test, and deploy 10+ scalable frontend features and architectural updates
+- Led the migration of a production healthcare app from MVVM to BLoC-based Clean Architecture, decoupling business logic from UI so three engineers could work in parallel without constant merge conflicts
+- Designed a normalized schema of 14+ tables with UUID primary keys covering patient and clinical operations
+- Shipped 10+ features and architectural changes in an Agile cycle, from design through testing and release
 
-<div align="center">
+---
 
-## GitHub Stats
+## Beyond Shipping Code
 
-</div>
+- 2★ on CodeChef · 500+ DSA problems solved (300+ on LeetCode)
+- Top 5 at Hacktopia · Smart India Hackathon 2025 shortlist · Top 16 at SIH 2024
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-Khan0007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=⭐%20GitHub%20Stats" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Khan0007&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9&layout=compact&langs_count=8&custom_title=💻%20Most%20Used%20Languages" alt="Top Languages"/>
-</div>
-
-<br>
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Khan0007&theme=tokyonight&hide_border=true&stroke=00BFFF&background=0D1117&ring=00BFFF&fire=ffa657&currStreakLabel=00BFFF" alt="GitHub Streak Stats"/>
-</div>
 
-<br>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Faizan-Khan0007&show_icons=true&hide_border=true&hide_title=true&hide=issues&count_private=true&include_all_commits=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=8B949E" alt="GitHub Stats"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Khan0007&layout=compact&hide_border=true&hide_title=true&langs_count=6&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-Khan0007&theme=react-dark&bg_color=0D1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+<br><br>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:211a2c,50:342946,100:8245ec&height=120&section=footer&text=Thank%20You%20For%20Visiting&fontSize=24&fontColor=ffffff&animation=fadeIn" style="opacity: 0.9;"/>
+**Open to SWE internship roles.** The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/faizanxp/) or [email](mailto:YOUR_EMAIL@example.com).
+
 </div>
