@@ -7,12 +7,13 @@
 Building production systems end-to-end — FastAPI services on the backend, Flutter clients on the front.<br>
 Computer Science @ IIIT Bhagalpur · Class of 2027 · Open to SWE internships
 
+<a href="https://portfolio-website-chi-two-80.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/faizanxp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/Fkwarrior/"><img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
 <a href="https://x.com/fkwarrior21"><img src="https://img.shields.io/badge/X-1A1A1A?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.prodloo.app"><img src="https://img.shields.io/badge/Prodloo%20on%20Play%20Store-1A1A1A?style=flat-square&logo=googleplay&logoColor=3DDC84" alt="Prodloo"/></a>
 <a href="https://drive.google.com/file/d/1IA8N__ysI4MXRFfdtfRQdVrVvU_FWo_v/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-1A1A1A?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="mailto:fkhan4d04@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
 </div>
 
@@ -74,8 +75,8 @@ Full-stack resume evaluation service, live on Render + Vercel.
 - Added an MD5-keyed Redis cache in front of the LLM call, taking repeat-request latency from ~4 s to under 100 ms
 - Modelled evaluation history in PostgreSQL via SQLAlchemy so users can track score changes across resume versions
 
-<a href="https://github.com/Faizan-Khan0007"><img src="https://img.shields.io/badge/Source-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-1A1A1A?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://ats-resume-checker-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-1A1A1A?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Faizan-Khan0007/ats-resume-checker"><img src="https://img.shields.io/badge/Source-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
 
 ### Prodloo — Productivity App (v2.0, Google Play)
 `Flutter` `Firebase` `Provider`
@@ -125,11 +126,6 @@ Smart India Hackathon 2025 shortlist — tamper-evident incident logging for tou
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Faizan-Khan0007&show_icons=true&hide_border=true&hide_title=true&hide=issues&count_private=true&include_all_commits=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=8B949E" alt="GitHub Stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Khan0007&layout=compact&hide_border=true&hide_title=true&langs_count=6&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages"/>
-
-<br><br>
-
-**Open to SWE internship roles.** The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/faizanxp/) or [email](mailto:YOUR_EMAIL@example.com).
+**Open to SWE internship roles.** The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/faizanxp/) or [email](mailto:fkhan4d04@gmail.com).
 
 </div>
